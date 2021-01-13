@@ -1,6 +1,6 @@
 const help = (prefix) => {
 	return `💎 Comandos do Guto bot 💎  
-🔰 Principais Comandos 🔰 
+🌀 Principais Comandos 🌀 
 
 Comando: '${prefix}sticker' ou '${prefix}stiker'
 Função: converter imagem / gif / vídeo em adesivo
@@ -17,7 +17,7 @@ Como Usar: responder a sticker
 Comando:'${prefix}criador'
 Função: Mostra as informações do criador do bot
 
-🔰 Comandos de Memes 🔰  
+🤡 Comandos de Memes 🤡  
 
 Comando: '${prefix}meme'
 Função: imagens aleatórias de meme [english]
@@ -25,7 +25,7 @@ Função: imagens aleatórias de meme [english]
 Comando: '${prefix}memeindo'
 Função: imagens aleatórias de meme [indo]
 
-🔰 Comandos +18 🔰
+🔞 Comandos +18 🔞
 
 Comando: '${prefix}loli'
 Função: imagens aleatórias de loli
@@ -67,7 +67,7 @@ Função: Enviar um pacote de links +18
 Como Usar: Basta enviar o comando
 
 
-🔰 Comandos de texto 🔰 
+❄ Comandos de texto ❄ 
 
 Comando: '${prefix}frase'
 Função: Envia uma frase filosofica
@@ -124,7 +124,7 @@ Comando:'${prefix}dpwater'
 Função: converte o texto em imagem com estilo dropwater
 Como Usar:'${prefix}dropwater [pt1]'
 
-🔰 Outros Comandos 🔰 
+💥 Outros Comandos 💥 
 
 Comandos: '${prefix}termux'
 Função: Mostra uma lista de comandos básicos do termux
@@ -169,7 +169,7 @@ Função: substituir prefixo
 Como Usar: '${prefix}setprefix [text|optional]' 
 Exemplo: '${prefix}setprefix ?'
 
-🔰 Comandos de Grupos 🔰 
+👻 Comandos de Grupos 👻 
 
 Comandos: '${prefix}welcome'
 Função: Ativa o modo boas-vindas do grupo
@@ -194,5 +194,4 @@ Obs: Este comando pode ser usado se você for um administrador do grupo
 }
 
 exports.help = help
-
 
